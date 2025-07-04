@@ -2,7 +2,6 @@
   "name": "subarmine-reactive",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +15,7 @@
   },
   "devDependencies": {
     "@types/dat.gui": "^0.7.13",
-    "@types/three": "^0.166.0"
+    "@types/three": "^0.166.0",
+    "parcel": "^2.15.4"
   }
 }
